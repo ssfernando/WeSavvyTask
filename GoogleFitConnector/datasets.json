@@ -1,0 +1,155 @@
+[
+  {
+    "dataSourceId": "derived:com.google.distance.delta::WeSavvy:Test:0111110:",
+    "maxEndTimeNs": 1445085180000000000,
+    "minStartTimeNs": 1445079600000000000,
+    "point": [
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445079600000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445080380000000000,
+        "value": [
+          {
+            "fpVal": 1040
+          }
+        ]
+      },
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445080500000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445082000000000000,
+        "value": [
+          {
+            "fpVal": 2666
+          }
+        ]
+      },
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445082060000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445082600000000000,
+        "value": [
+          {
+            "fpVal": 1200
+          }
+        ]
+      },
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445082900000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445085180000000000,
+        "value": [
+          {
+            "fpVal": 2026
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dataSourceId": "derived:com.google.distance.delta::WeSavvy:Test:0111110:",
+    "maxEndTimeNs": 1445092380000000000,
+    "minStartTimeNs": 1445086800000000000,
+    "point": [
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445086800000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445087580000000000,
+        "value": [
+          {
+            "fpVal": 2090
+          }
+        ]
+      },
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445087700000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445089200000000000,
+        "value": [
+          {
+            "fpVal": 5375
+          }
+        ]
+      },
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445089260000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445089800000000000,
+        "value": [
+          {
+            "fpVal": 2415
+          }
+        ]
+      },
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445090100000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445092380000000000,
+        "value": [
+          {
+            "fpVal": 5066
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dataSourceId": "derived:com.google.distance.delta::WeSavvy:Test:0111110:",
+    "maxEndTimeNs": 1445099580000000000,
+    "minStartTimeNs": 1445094000000000000,
+    "point": [
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445094000000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445094780000000000,
+        "value": [
+          {
+            "fpVal": 3488
+          }
+        ]
+      },
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445094900000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445096400000000000,
+        "value": [
+          {
+            "fpVal": 10050
+          }
+        ]
+      },
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445096460000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445097000000000000,
+        "value": [
+          {
+            "fpVal": 4833
+          }
+        ]
+      },
+      {
+        "dataTypeName": "com.google.distance.delta",
+        "startTimeNanos": 1445097300000000000,
+        "originDataSourceId": "",
+        "endTimeNanos": 1445099580000000000,
+        "value": [
+          {
+            "fpVal": 5066
+          }
+        ]
+      }
+    ]
+  }
+]

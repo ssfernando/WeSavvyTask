@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Weekend walk",
+    "description": "Phoenix park saturday walk",
+    "startTimeMillis": 1445079600000,
+    "endTimeMillis": 1445085180000,
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    },
+    "activityType": 7
+  },
+  {
+    "id": "2",
+    "name": "Weekend run",
+    "description": "Phoenix park saturday run",
+    "startTimeMillis": 1445086800000,
+    "endTimeMillis": 1445092380000,
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    },
+    "activityType": 8
+  },
+  {
+    "id": "3",
+    "name": "Weekend cycle",
+    "description": "Phoenix park saturday cycle",
+    "startTimeMillis": 1445094000000,
+    "endTimeMillis": 1445099580000,
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    },
+    "activityType": 15
+  }
+]

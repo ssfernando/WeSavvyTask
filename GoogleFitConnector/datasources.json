@@ -1,0 +1,238 @@
+[
+  {
+    "dataStreamName": "",
+    "name": "Sample activity",
+    "type": "derived",
+    "dataType": {
+      "name": "com.google.activity.sample",
+      "field": [
+        {
+          "name": "activity",
+          "format": "integer"
+        },
+        {
+          "name": "confidence",
+          "format": "floatPoint"
+        }
+      ]
+    },
+    "device": {
+      "uid": "0111110",
+      "type": "phone",
+      "version": "1",
+      "model": "Test",
+      "manufacturer": "WeSavvy"
+    },
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    }
+  },
+  {
+    "dataStreamName": "",
+    "name": "Segment activity",
+    "type": "derived",
+    "dataType": {
+      "name": "com.google.activity.segment",
+      "field": [
+        {
+          "name": "activity",
+          "format": "integer"
+        }
+      ]
+    },
+    "device": {
+      "uid": "0111110",
+      "type": "phone",
+      "version": "1",
+      "model": "Test",
+      "manufacturer": "WeSavvy"
+    },
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    }
+  },
+  {
+    "dataStreamName": "",
+    "name": "Distance",
+    "type": "derived",
+    "dataType": {
+      "name": "com.google.distance.delta",
+      "field": [
+        {
+          "name": "distance",
+          "format": "floatPoint"
+        }
+      ]
+    },
+    "device": {
+      "uid": "0111110",
+      "type": "phone",
+      "version": "1",
+      "model": "Test",
+      "manufacturer": "WeSavvy"
+    },
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    }
+  },
+  {
+    "dataStreamName": "",
+    "name": "Speed",
+    "type": "derived",
+    "dataType": {
+      "name": "com.google.speed",
+      "field": [
+        {
+          "name": "speed",
+          "format": "floatPoint"
+        }
+      ]
+    },
+    "device": {
+      "uid": "0111110",
+      "type": "phone",
+      "version": "1",
+      "model": "Test",
+      "manufacturer": "WeSavvy"
+    },
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    }
+  },
+  {
+    "dataStreamName": "",
+    "name": "Number of step cadence",
+    "type": "derived",
+    "dataType": {
+      "name": "com.google.step_count.cadence",
+      "field": [
+        {
+          "name": "rpm",
+          "format": "floatPoint"
+        }
+      ]
+    },
+    "device": {
+      "uid": "0111110",
+      "type": "phone",
+      "version": "1",
+      "model": "Test",
+      "manufacturer": "WeSavvy"
+    },
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    }
+  },
+  {
+    "dataStreamName": "",
+    "name": "",
+    "type": "derived",
+    "dataType": {
+      "name": "com.google.step_count.delta",
+      "field": [
+        {
+          "name": "steps",
+          "format": "integer"
+        }
+      ]
+    },
+    "device": {
+      "uid": "0111110",
+      "type": "phone",
+      "version": "1",
+      "model": "Test",
+      "manufacturer": "WeSavvy"
+    },
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    }
+  },
+  {
+    "dataStreamName": "",
+    "name": "",
+    "type": "derived",
+    "dataType": {
+      "name": "com.google.activity.summary",
+      "field": [
+        {
+          "name": "activity",
+          "format": "integer"
+        },
+        {
+          "name": "duration",
+          "format": "integer"
+        },
+        {
+          "name": "num_segments",
+          "format": "integer"
+        }
+      ]
+    },
+    "device": {
+      "uid": "0111110",
+      "type": "phone",
+      "version": "1",
+      "model": "Test",
+      "manufacturer": "WeSavvy"
+    },
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    }
+  },
+  {
+    "dataStreamName": "",
+    "name": "",
+    "type": "derived",
+    "dataType": {
+      "name": "com.google.speed.summary",
+      "field": [
+        {
+          "name": "average",
+          "format": "floatPoint"
+        },
+        {
+          "name": "max",
+          "format": "floatPoint"
+        },
+        {
+          "name": "min",
+          "format": "floatPoint"
+        }
+      ]
+    },
+    "device": {
+      "uid": "0111110",
+      "type": "phone",
+      "version": "1",
+      "model": "Test",
+      "manufacturer": "WeSavvy"
+    },
+    "application": {
+      "packageName": "",
+      "version": "0.0.1",
+      "detailsUrl": "www.wesavvy.com",
+      "name": "WeSavvy"
+    }
+  }
+]
